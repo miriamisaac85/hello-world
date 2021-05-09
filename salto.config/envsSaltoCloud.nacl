@@ -1,4 +1,8 @@
 envs {
   envsCloud = [
+    {
+      uuid = "41e5fbd8-136b-4c64-819d-09b128435e73"
+      folderName = "Igal Sandbox"
+    },
   ]
 }
