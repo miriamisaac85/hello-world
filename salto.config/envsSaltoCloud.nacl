@@ -1,8 +1,17 @@
 envs {
   envsCloud = [
     {
+<<<<<<< HEAD
       uuid = "41e5fbd8-136b-4c64-819d-09b128435e73"
       folderName = "Igal Sandbox"
+=======
+      uuid = "7b958764-a8e6-488a-be02-bc3ca5bf9915"
+      folderName = "TomerDev2"
+    },
+    {
+      uuid = "1184a231-a86f-4cb8-bc71-d8d23a024ea5"
+      folderName = "TomerDev1"
+>>>>>>> 11bcadd (Conflict with local changes)
     },
   ]
 }

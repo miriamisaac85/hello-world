@@ -43,7 +43,10 @@ salesforce {
         },
       ]
     }
+<<<<<<< HEAD
     fetchAllCustomSettings = false
+=======
+>>>>>>> 11bcadd (Conflict with local changes)
   }
   maxItemsInRetrieveRequest = 2500
 }
